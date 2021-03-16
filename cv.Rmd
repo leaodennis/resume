@@ -61,7 +61,7 @@ datadrivencv::build_network_logo(CV$entries_data)
 if(params$pdf_mode){
   cat("View this CV online with links at _nickstrayer.me/cv/_")
 } else {
-  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/nstrayer/cv/raw/master/strayer_cv.pdf)")
+  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/leaodennis/resume/blob/main/dennis_cv.pdf)")
 }
 ```
 
@@ -85,8 +85,6 @@ CV %>% print_skill_bars()
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-
-The source code is available [on github.com/leaodennis/resume](https://github.com/leaodennis/resume).
 
 Last updated on `r Sys.Date()`.
 
