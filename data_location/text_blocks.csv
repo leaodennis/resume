@@ -1,0 +1,6 @@
+Id used for finding text block,Contents of text block. Supports markdown formatting.
+loc,text
+intro,Data Scientist working in the Royal State industry with expertise in marketing and healthcare business models.
+industy_experience_aside,I have worked in a variety of industries ranging from royal state to e-commerce as data scientist. I like collaborative environments where I can learn from my peers and drive the most value from the team. 
+teaching_experience_aside, I believe that no topic is too complex to learn or teach
+data_science_writing_aside,I started a blog on data science and analysis with some colleagues  [The Non Parametrics.](https://osnaoparametricos.com/)

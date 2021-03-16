@@ -1,0 +1,13 @@
+Name of language,Relative numeric level of skill
+skill,level
+R,5
+Python,4.5
+C++,2
+Bash,3
+SQL,4
+Elastic Search,4
+MongoDB,3.5
+AWS,3
+Docker,4
+GCP,2
+Git,4
