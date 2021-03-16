@@ -86,7 +86,7 @@ CV %>% print_skill_bars()
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-The source code is available [on github.com/nstrayer/cv](https://github.com/nstrayer/cv).
+The source code is available [on github.com/leaodennis/resume](https://github.com/leaodennis/resume).
 
 Last updated on `r Sys.Date()`.
 
